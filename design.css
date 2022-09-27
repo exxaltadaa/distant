@@ -1,0 +1,33 @@
+#header,
+#footer{
+  width: 1920px;
+  height: 30px;
+  background-color: #d6d8e4;
+  margin-bottom: 10px;
+}
+#nav{
+  float:left;
+  width: 120px;
+  border: 1px solid #000;
+}
+#aside{
+  width: 150px;
+  border: 1px solid #000;
+}
+#article{
+  float:right;
+  border: 1px solid #000;
+  margin-right: 160px;
+  margin-left: 130px;
+}
+#separator{
+  float:both;
+}
+#обекание{
+float:right;
+margin-right: 10 px;
+width: 10%;
+height: 10%;
+position: absolute;
+}
+  
